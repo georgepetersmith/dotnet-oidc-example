@@ -1,4 +1,4 @@
-﻿using IdentityServer.Duende;
+using IdentityServer.Duende;
 using Serilog;
 
 Log.Logger = new LoggerConfiguration()
